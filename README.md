@@ -21,16 +21,16 @@ Almost all the backend codes and all the classes of the backend code inherit a s
 1. clone the repository:
 
  ```javascript
- git clone https://github.com/ericsonsweah/raw_nodejs_routing_a_right_way raw_node_routing
+ git clone https://github.com/eweah/raw_nodejs_routing raw_node_routing
 ```
 
 or
 
   ```javascript
- gh repo clone ericsonsweah/raw_nodejs_routing_a_right_way raw_node_routing
+ gh repo clone eweah/raw_nodejs_routing raw_node_routing
  ```
 
-  Note: to use the command ```gh repo clone ericsonsweah/raw_nodejs_routing_a_right_way raw_node_routing``` you must have  Github CLI ```gh``` installed on your system.
+  Note: to use the command ```gh repo clone eweah/raw_nodejs_routing raw_node_routing``` you must have  Github CLI ```gh``` installed on your system.
 
 2. cd in the directory:
 
